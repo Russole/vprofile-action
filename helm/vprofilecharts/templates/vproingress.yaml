@@ -8,7 +8,6 @@ spec:
   ingressClassName: nginx
   rules:
   - host: vprofile.thehkh.com
-  #- host: vprofile.hkh123.xyz
     http:
       paths:
       - path: /
